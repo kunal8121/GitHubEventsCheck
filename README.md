@@ -1,7 +1,7 @@
 GitHub Events CLI
 A command-line tool built with Spring Boot that fetches and displays recent GitHub events for any user.
 
-## Project URL
+**project URL**
 https://github.com/kunal8121/GitHubEventsCheck
 
 
