@@ -22,7 +22,7 @@ Installation
 
 Clone the repository:
 
-bashgit clone https://github.com/YOUR_USERNAME/github-events-cli.git
+bashgit clone https://github.com/kunal8121/github-events-cli.git
 cd practiseCode
 
 Build the project:
